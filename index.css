@@ -1,0 +1,62 @@
+body {
+    color: black;
+    background-color: black;
+}
+.contenedor {
+    width: 700px;
+    margin: 0 auto;
+}
+.superior {
+    background-color: white;
+    display: flex;
+}
+.fa-brands {
+    font-size: 80px;
+    padding-top: 20px;
+}
+.ht {
+    margin: 20px 10px 0px 10px;
+}
+.subti {
+    margin: 20px 30px 40px 30px;
+}
+.fa-solid {
+    font-size: 70px; 
+}
+.eliip {
+    margin: 20px 15px 20px 480px;
+}
+.foto {
+    width: 700px;
+    height: 1031px;
+}
+.logos {
+    background-color: white;
+    display: flex;
+}
+.logo1 {
+    font-size: 70px;
+    margin:auto 10px
+}
+.logo2 {
+    font-size: 70px;
+    margin:auto 10px
+}
+.logo3 {
+    font-size: 70px;
+    margin:auto 10px
+}
+.logo4 {
+    font-size: 70px;
+    margin: 10px 10px 10px 360px;
+}
+.textosup {
+    background-color: white;
+}
+.lore {
+    margin: 0px 0px 0px 0px;
+    padding: 15px 20px 20px 20px;
+}
+.lore2  {
+    padding: 15px 20px 20px 20px;
+}
